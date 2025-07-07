@@ -1,0 +1,112 @@
+{
+    "users": [
+        {
+            "id": -1,
+            "username": "system",
+            "name": "system",
+            "avatar_template": "/images/discourse-logo-sketch-small.png",
+            "admin": true,
+            "moderator": true,
+            "trust_level": 4
+        },
+        {
+            "id": 10,
+            "username": "test1",
+            "name": "Testone Detest",
+            "avatar_template": "/letter_avatar_proxy/v4/letter/t/ba8739/{size}.png",
+            "trust_level": 1
+        }
+    ],
+    "primary_groups": [],
+    "flair_groups": [],
+    "topic_list": {
+        "can_create_topic": false,
+        "per_page": 30,
+        "top_tags": [],
+        "topics": [
+            {
+                "id": 66,
+                "title": "About the 1 category",
+                "fancy_title": "About the 1 category",
+                "slug": "about-the-1-category",
+                "posts_count": 1,
+                "reply_count": 0,
+                "highest_post_number": 1,
+                "image_url": null,
+                "created_at": "2024-10-28T09:42:38.860Z",
+                "last_posted_at": null,
+                "bumped": true,
+                "bumped_at": "2024-10-28T09:42:38.860Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": true,
+                "unpinned": null,
+                "excerpt": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [],
+                "tags_descriptions": {},
+                "views": 0,
+                "like_count": 0,
+                "has_summary": false,
+                "last_poster_username": "system",
+                "category_id": 38,
+                "pinned_globally": false,
+                "featured_link": null,
+                "posters": [
+                    {
+                        "extras": "latest single",
+                        "description": "Original Poster, Most Recent Poster",
+                        "user_id": -1,
+                        "primary_group_id": null,
+                        "flair_group_id": null
+                    }
+                ]
+            },
+            {
+                "id": 67,
+                "title": "Test_ds: An awesome new topic",
+                "fancy_title": "Test_ds: An awesome new topic",
+                "slug": "test-ds-an-awesome-new-topic",
+                "posts_count": 1,
+                "reply_count": 0,
+                "highest_post_number": 1,
+                "image_url": null,
+                "created_at": "2024-10-28T09:56:31.565Z",
+                "last_posted_at": "2024-10-28T09:56:31.639Z",
+                "bumped": true,
+                "bumped_at": "2024-10-28T09:56:31.639Z",
+                "archetype": "regular",
+                "unseen": false,
+                "pinned": false,
+                "unpinned": null,
+                "visible": true,
+                "closed": false,
+                "archived": false,
+                "bookmarked": null,
+                "liked": null,
+                "tags": [],
+                "tags_descriptions": {},
+                "views": 0,
+                "like_count": 0,
+                "has_summary": false,
+                "last_poster_username": "test1",
+                "category_id": 38,
+                "pinned_globally": false,
+                "featured_link": null,
+                "posters": [
+                    {
+                        "extras": "latest single",
+                        "description": "Original Poster, Most Recent Poster",
+                        "user_id": 10,
+                        "primary_group_id": null,
+                        "flair_group_id": null
+                    }
+                ]
+            }
+        ]
+    }
+}
