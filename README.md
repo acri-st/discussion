@@ -1,4 +1,4 @@
-# DESP-AAS Discussion
+# Discussion
 
 ## Table of Contents
 
@@ -14,30 +14,15 @@
 
 ## Introduction
 
-### What is the DESP-AAS Collaborative Platform?
-
-DESP-AAS Collaborative Platform is a comprehensive service that enables users to collaborate on data science projects, share assets, and manage resources within a secure and scalable environment.
-
-The Microservices that make up the Collaborative Platform project are the following:
-- **Asset Management** Manages data assets, models, applications, and other resources
-- **Storage** Manages file storage, Git repositories, and metadata including thumbnails and avatars
-- **Search** Provides search capabilities across the platform's content
-- **Group Management** Manages user groups and collaborative workspaces
-- **Discussion** Handles communication and collaboration features
-- **Moderation** Provides content moderation and quality control
-- **Notification** Manages user notifications and alerts
-
 ### What is the Discussion Service?
 
-The Discussion service is a microservice that enables collaborative communication around assets and projects within the DESP-AAS ecosystem. It provides the infrastructure and tools necessary for users to create, manage, and participate in discussions, topics, and posts related to assets and collaborative workspaces.
+The Discussion service is a microservice that enables communication around assets and posts. It provides the infrastructure and tools necessary for users to create, manage, and participate in discussions, topics, and posts related to assets.
 
 The Discussion service handles:
 - **Discussion Management** Creating and managing discussion categories linked to assets
 - **Topic and Post Management** Creating, editing, and retrieving topics and posts
 - **Moderation Integration** Sending posts and topics for moderation
-- **Integration** Working with other DESP-AAS microservices like Asset Management, Auth, and Notification
-
-This service is a critical component of the DESP-AAS Collaborative Platform, enabling users to communicate, share knowledge, and collaborate effectively around their projects and assets.
+- **Integration** Working with other  microservices like Asset Management, Auth, and Notification
 
 ## Prerequisites
 

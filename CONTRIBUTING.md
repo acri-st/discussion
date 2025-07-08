@@ -19,7 +19,7 @@ To contribute to the project, please follow these steps:
 4. **Write tests** to verify your updates 🧪
 5. **Ensure all tests pass** Run the test suite and your newly added tests (if added) ✅
 6. **Update documentation** as needed 📝
-7. **Create pull request and document changes** with a clear description of your changes, so that a DESP-AAS member can confirm and merge🚦
+7. **Create pull request and document changes** with a clear description of your changes, so that a Collaborative platform member can confirm and merge🚦
 
 The description must be the following: 
 ```
@@ -76,11 +76,11 @@ We use automated CI pipelines to run tests on all merge requests. Your code must
 
 ## Deployment
 
-Once the merge request has been accepted and merged into development, your changes will be present in the next production release by the DESP-AAS team.
+Once the merge request has been accepted and merged into development, your changes will be present in the next production release by the team.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📄
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE.txt) file for details. 📄
 
 ## Support
 
