@@ -23,11 +23,5 @@ dependencies = [
 ]
 
 [tool.uv.sources]
-msfwk = { index  = "dsy-pip" }
-despsharedlibrary = { index = "dsy-pip" }
-
-[[tool.uv.index]]
-name = "dsy-pip"
-url = "https://gitlab.acri-cwa.fr/api/v4/projects/782/packages/pypi/simple"
-username = "__token__"
-default = false
+msfwk = { path = "libs/base-service" }
+despsharedlibrary = { path = "libs/desp_shared_library" }
